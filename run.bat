@@ -1,2 +1,2 @@
-java displayer
+java linearEquations
 pause
